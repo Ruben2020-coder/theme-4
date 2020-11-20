@@ -1,0 +1,13 @@
+<html>
+<head>
+<title > My Environment </title>
+</head>
+<body>
+< body bgcolor=”cyan”>
+<h1>The impact from pollution </h1>
+<p>Effects of pollution on the Earth include environmental deterioration, impacts on the health of living organisms.Pollution affects all areas of the Earth, including the water, soil and atmosphere</p>
+<h2> Water pollution </h2>
+<p2> Water pollution is the worst things for sea animals so what happens is that people throw are waste that is no use to us in the beach or any water bodies it goes in the water and the sea animals think of it as food and eat it then die</p2>
+<img src="pollution.jpg"
+</body>
+</html>
